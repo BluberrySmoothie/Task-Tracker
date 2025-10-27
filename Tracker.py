@@ -1080,8 +1080,8 @@ class TaskTrackerApp(QTabWidget):
 
         about_text = QLabel(
             "Task Tracker Application V2.3\n\n"
-            "Developed by Bob Berry of Berry Tech\n\n"
-            "robert.berry@bgcg.com\n\n"
+            "Developed by Blueberry Smoothie\n\n"
+            "https://github.com/BluberrySmoothie\n\n"
             "\n\n"
             "v2.3 updates: \n\n"
             "Changes made to Gannt graph start date logic \n\n"
