@@ -2,6 +2,10 @@
 
 A powerful desktop application for managing tasks, projects, and team workflows with visual Gantt charts and comprehensive export capabilities.
 
+## Support the Project
+If you like my work, feel free to buy me a coffee! ☕
+https://buymeacoffee.com/BluberrySmoothie
+
 ## Features
 
 - **Task Management**: Create, edit, and track tasks with detailed information including title, description, dates, priority, and status
